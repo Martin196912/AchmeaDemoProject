@@ -1,4 +1,6 @@
 apikey
 wachtwoord
 12345
+user
+apiuser1
 api
